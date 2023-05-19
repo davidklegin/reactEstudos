@@ -1,0 +1,15 @@
+.logo{
+    display: flex;
+    font-size: 30px;
+    }
+
+.imagem-logo{
+    margin-right: 10px;
+}
+.icones{
+    display: flex;
+}
+.icone{
+    margin-right: 40px;
+
+}
